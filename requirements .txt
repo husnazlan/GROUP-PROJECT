@@ -1,8 +1,0 @@
-nltk
-streamlit
-pandas
-numpy
-re
-random
-time
-datetime
