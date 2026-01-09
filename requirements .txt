@@ -1,0 +1,11 @@
+nltk
+streamlit
+pandas
+numpy
+re
+random
+time
+datetime
+plotly.graph_objects
+plotly.express 
+Counter
